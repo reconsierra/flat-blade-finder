@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# Load vehicle data
+# Load data
 data = pd.read_csv("vehicle_data.csv")
 
 st.title("Vehicle Selector App")
