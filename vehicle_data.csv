@@ -1,5 +1,7 @@
-Make,Model,Year,Fuel Type,Transmission,Length (mm),Product Number
+A,B,C,D,E,F,Product Number
 Toyota,Corolla,2020,Petrol,Automatic,600,0848 037 600
-Toyota,Camry,2021,Hybrid,Manual,450,0848 037 450
-Ford,Focus,2019,Diesel,Automatic,375,0848 037 375
-Ford,Fiesta,2018,Petrol,Manual,700,0848 037 700
+Toyota,Camry,2021,Diesel,Manual,450,0848 037 450
+Ford,Focus,2019,Petrol,Manual,500,0848 037 500
+Ford,Fiesta,2022,Electric,Automatic,325,0848 037 325
+Honda,Civic,2020,Hybrid,Automatic,750,0848 037 750
+Honda,Accord,2021,Petrol,Manual,550,0848 037 550
